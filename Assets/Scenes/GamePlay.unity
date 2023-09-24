@@ -301,9 +301,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 327646167}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 753c41c7025cec14aa9afa658581918e, type: 3}
+  m_Script: {fileID: 11500000, guid: 888d646eef1b00a4bbf6967529491c07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SpaceShipMovement: {x: 0, y: 0}
+  SpaceShipMovementSpeed: 10
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
